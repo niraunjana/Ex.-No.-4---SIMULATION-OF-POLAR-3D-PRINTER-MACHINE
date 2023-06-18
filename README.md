@@ -33,8 +33,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/niraunjana/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119395610/3e4d466d-0946-4c8f-9ccb-79c441028f53)
+
+
+### Name: NIRAUNJANA GAYATHRI G R
+### Register Number: 212222230096
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
